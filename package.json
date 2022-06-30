@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "Bot para a Twitch",
   "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
   "author": "Davi Coelho <davi.cmbarreto@gmail.com>",
   "license": "MIT",
   "dependencies": {
