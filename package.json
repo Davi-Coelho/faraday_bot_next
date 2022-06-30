@@ -1,0 +1,8 @@
+{
+  "name": "faraday_bot_next",
+  "version": "1.0.0",
+  "description": "Bot para a Twitch",
+  "main": "index.js",
+  "author": "Davi Coelho <davi.cmbarreto@gmail.com>",
+  "license": "MIT"
+}
