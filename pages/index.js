@@ -1,9 +1,9 @@
-import Head from "next/head"
+import LoginPage from "../src/components/screens/LoginPage/LoginPage"
 
 function HomePage() {
     return (
         <>
-            <Head><title>Faraday Bot</title></Head>
+            <LoginPage></LoginPage>
         </>
     )
 }
