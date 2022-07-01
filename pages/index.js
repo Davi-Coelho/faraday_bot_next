@@ -1,6 +1,10 @@
+import Head from "next/head"
+
 function HomePage() {
     return (
-        <div>Olá mundo!</div>
+        <>
+            <Head><title>Faraday Bot</title></Head>
+        </>
     )
 }
 
