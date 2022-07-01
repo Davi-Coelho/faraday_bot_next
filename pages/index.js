@@ -1,6 +1,10 @@
+import LoginPage from "../src/components/screens/LoginPage/LoginPage"
+
 function HomePage() {
     return (
-        <div>Olá mundo!</div>
+        <>
+            <LoginPage></LoginPage>
+        </>
     )
 }
 
